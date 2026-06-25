@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 # Hi there! 👋
 
 **I'm NIRAJ — Aspiring Developer & GSSOC'25/26 Contributor.**
