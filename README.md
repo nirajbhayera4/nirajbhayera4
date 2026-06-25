@@ -6,7 +6,7 @@ Passionate about building practical tools, solving algorithmic problems, and con
 
 _Always open to collaborations, mentorship, and new opportunities._
 
-## About Me
+
 
 ## About Me
 
@@ -25,7 +25,7 @@ I focus on full‑stack and algorithmic problem solving. My projects range from 
 
 cpp,js,py,css,html,nodejs,react,nextjs,vercel,git,github,githubactions,linkedin,vscode
 
-## Top Projects
+
 
 ## Top Projects
 
@@ -56,7 +56,7 @@ cpp,js,py,css,html,nodejs,react,nextjs,vercel,git,github,githubactions,linkedin,
 
 (Repositories chosen by activity, language and recent updates — showcases algorithm practice, APIs, and full‑stack web work.)
 
-## GitHub Stats
+
 
 ## GitHub Stats 📈
 
@@ -76,7 +76,7 @@ Dynamic stats:
 
 (These images update automatically and give a quick snapshot of contribution & language breakdown.)
 
-## Recent Activity
+
 
 ## Recent Activity 🔔
 
@@ -95,7 +95,7 @@ Here are the latest GitHub events (pushes) from my account:
 
 (Active cadence on algorithm practice repo + API work — frequently pushing small, focused updates.)
 
-## Latest Blog Posts
+
 
 ## Latest Blog Posts 📝
 
@@ -108,7 +108,7 @@ In the meantime, you can view technical activity and problem solving on:
 
 (If you have a personal blog or portfolio site, add it and I'll include it here.)
 
-## Connect with Me
+
 
 ## Connect with Me 🔗
 
