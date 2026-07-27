@@ -1,108 +1,177 @@
-<h1 align="center">Hi 👋, I'm Niraj Bhayera</h1>
-<h3 align="center">Web Developer | JavaScript · React · Node.js | Open to Opportunities 🚀</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:6C63FF,100:FF00FF&text=NIRAJ%20BHAYERA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Android+Developer;AI+Engineer;Competitive+Programmer;Building+the+Future+with+Code;Always+Learning+Something+New+🚀"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/240885168-3c7f8f88-b8df-4e4d-a54b-89785fdb4b6d.gif" width="900"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Niraj Bhayera
+
+education:
+  degree: B.Tech Computer Science
+
+role:
+  - Android Developer
+  - AI Engineer
+  - Competitive Programmer
+
+currently_learning:
+  - System Design
+  - LLM Engineering
+  - Cloud Computing
+
+currently_building:
+  - AI Software Engineering Copilot
+
+interests:
+  - Android
+  - Artificial Intelligence
+  - Open Source
+  - Backend Development
+
+life:
+  code: true
+  coffee: true
+  bugs: unavoidable
+```
+
+---
+
+# ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Open+to+Work+%F0%9F%92%BC+%E2%80%94+Let%27s+Connect%21" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java,dart,react,nodejs,express,mongodb,mysql,firebase,flutter,androidstudio,tensorflow,docker,git,github,linux,vscode&perline=10"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nirajbhayera4&label=Profile%20Views&color=0e75b6&style=flat" alt="nirajbhayera4" />
-  <a href="https://github.com/nirajbhayera4?tab=followers">
-    <img src="https://img.shields.io/github/followers/nirajbhayera4?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
 ---
 
-### 🚀 About Me
-
-- 💻 I'm a **Web Developer** specializing in **JavaScript, React & Node.js**
-- 🔭 I'm currently building full-stack web applications
-- 🌱 I'm currently sharpening my skills in modern JS frameworks & backend architecture
-- 💼 **Open to opportunities** — actively looking for a role, so let's talk!
-- 👯 I'm looking to collaborate on open-source and full-stack projects
-- 💬 Ask me about React, Node.js, JavaScript, or web dev in general
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: I debug my code by staring at it intensely
-
----
-
-### 🛠️ Languages & Tools
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman,tailwind" alt="skills" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera4&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nirajbhayera4&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera4&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 📈 Activity Graph
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera4&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhayera4&theme=tokyonight" alt="streak stats" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajbhayera4&theme=tokyo-night&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajbhayera4&theme=react-dark" alt="activity graph"/>
 </p>
 
 ---
 
-### 🌊 Animated Wave Banner
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="wave banner"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nirajbhayera4&theme=algolia&no-frame=true&row=2&column=4"/>
+
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Software Engineering Copilot | AI-powered developer assistant |
+| 🛡 Praylay Shield | Disaster management system |
+| 🏋 ManyFitness | Flutter Fitness App |
+| 🧠 Disease Prediction | ML healthcare application |
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nirajbhayera4&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 💡 Philosophy
+
+```cpp
+while(alive)
+{
+    Learn();
+    Build();
+    Commit();
+    Repeat();
+}
+```
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nirajbhayera4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/nirajbhayera4" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/nirajbhayera4" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
-  </a>
+
+<a href="https://github.com/nirajbhayera4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%" alt="line break"/>
-</p>
+# 🐍 Contribution Snake
 
-<p align="center"><i>⭐️ From <a href="https://github.com/nirajbhayera4">nirajbhayera4</a> — Thanks for visiting my profile!</i></p>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nirajbhayera4/nirajbhayera4/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nirajbhayera4&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C63FF&height=160&section=footer"/>
+
+</div>
