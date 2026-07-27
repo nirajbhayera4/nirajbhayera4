@@ -1,126 +1,138 @@
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Niraj Bhayera</h1>
+<h3 align="center">A passionate developer who loves building things and breaking bugs 🐞</h3>
 
-**I'm NIRAJ — Aspiring Developer & GSSOC'25/26 Contributor.**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-Passionate about building practical tools, solving algorithmic problems, and contributing to open-source. I enjoy working across C++, JavaScript and Python — always learning and shipping projects that make an impact. 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nirajbhayera4&label=Profile%20Views&color=0e75b6&style=flat" alt="nirajbhayera4" />
+  <a href="https://github.com/nirajbhayera4?tab=followers">
+    <img src="https://img.shields.io/github/followers/nirajbhayera4?label=Followers&style=social" alt="followers" />
+  </a>
+</p>
 
-_Always open to collaborations, mentorship, and new opportunities._
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
 
+---
 
+### 🚀 About Me
 
-## About Me
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm currently learning new technologies
+- 👯 I'm looking to collaborate on open-source projects
+- 💬 Ask me about web development, programming, and tech
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: I debug my code by staring at it intensely
 
-- Name: **NIRAJ**
-- Role: Aspiring Developer | Open-source Contributor (GSSOC'25/26)
-- Bio: "Aspiring Developer || Contributor GSSOC'25/26"
-- Email: [nirajbhayera4@gmail.com](mailto:nirajbhayera4@gmail.com)
-- GitHub: [nirajbhayera4](https://github.com/nirajbhayera4)
-- LeetCode: [nirajbhayera](https://leetcode.com/u/nirajbhayera/)
-- LinkedIn: [Niraj Bhayera](https://www.linkedin.com/in/niraj-bhayera-327b72338/)
-- GitHub account created: 2025-05-12
+---
 
-I focus on full‑stack and algorithmic problem solving. My projects range from algorithm submissions (NeetCode) to APIs and small full‑stack apps. I'm actively building, learning, and contributing to open-source — currently sharpening back-end and web development skills.
+### 🛠️ Languages & Tools
 
-## Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,figma,mongodb" alt="skills" />
+</p>
 
-cpp,js,py,css,html,nodejs,react,nextjs,vercel,git,github,githubactions,linkedin,vscode
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera4&layout=compact&theme=tokyonight" alt="top languages"/>
+</p>
 
-## Top Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhayera4&theme=tokyonight" alt="streak stats" />
+</p>
 
-1. [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) ⭐
-   - Description: My NeetCode.io problem submissions
-   - Stars: 0 • Language: C++ • Fork: no • Issues: 0
-   - Last updated: 2026-06-23
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajbhayera4&theme=react-dark" alt="activity graph"/>
+</p>
 
-2. [student-management-API](https://github.com/nirajbhayera4/student-management-API)
-   - Description: Student management REST API (project for learning web APIs & CRUD)
-   - Stars: 0 • Language: JavaScript • Fork: no • Issues: 0
-   - Last updated: 2026-06-18
+---
 
-3. [finance-tracker](https://github.com/nirajbhayera4/finance-tracker)
-   - Description: Personal finance tracker project implemented in Python
-   - Stars: 0 • Language: Python • Fork: no • Issues: 0
-   - Last updated: 2026-06-14
+### 🐍 Contribution Snake
 
-4. [TourEase](https://github.com/nirajbhayera4/TourEase) (fork)
-   - Description: Your own tour planner — deployed: https://tour-ease-joh5.vercel.app/
-   - Stars: 0 • Language: (varies) • Fork: yes • License: MIT
-   - Notes: Full-stack web project / front-end experience (deployed on Vercel)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nirajbhayera4/nirajbhayera4/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-5. [assignhub-mern](https://github.com/nirajbhayera4/assignhub-mern)
-   - Description: MERN-style assignment management app
-   - Stars: 0 • Language: JavaScript • Fork: no • Open issues: 1
-   - Last updated: 2026-05-03
+> ℹ️ To make the snake animation work, add the workflow described at the bottom of this file (Setup Instructions).
 
-(Repositories chosen by activity, language and recent updates — showcases algorithm practice, APIs, and full‑stack web work.)
+---
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nirajbhayera4&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+</p>
 
-## GitHub Stats 📈
+---
 
-- Public repositories: **41**
-- Followers: **1**
-- Following: **2**
+### 🌐 Connect With Me
 
-Badges / Stats:
+<p align="center">
+  <a href="https://linkedin.com/in/nirajbhayera4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/nirajbhayera4" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/nirajbhayera4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-- ![GitHub followers](https://img.shields.io/github/followers/nirajbhayera4?label=Followers&style=social)
-- ![GitHub repos](https://img.shields.io/badge/Public%20Repos-41-blue)
+---
 
-Dynamic stats:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines.gif" width="100%" alt="line break"/>
+</p>
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirajbhayera4&show_icons=true&theme=radical)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera4&layout=compact&theme=radical)
+<p align="center"><i>⭐️ From <a href="https://github.com/nirajbhayera4">nirajbhayera4</a> — Thanks for visiting my profile!</i></p>
 
-(These images update automatically and give a quick snapshot of contribution & language breakdown.)
+---
 
+## 🧩 Setup Instructions (for you, Niraj)
 
+1. **Create the special repo**: Make a new repo named exactly `nirajbhayera4` (must match your username) and set it to Public. Put this file inside it as `README.md` — GitHub will show it on your profile automatically.
 
-## Recent Activity 🔔
+2. **Enable the Snake Animation**: In that same repo, create `.github/workflows/snake.yml` with:
+   ```yaml
+   name: Generate Snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     workflow_dispatch: {}
+     push:
+       branches: [main]
 
-Here are the latest GitHub events (pushes) from my account:
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       permissions:
+         contents: write
+       steps:
+         - uses: Platane/snk/svg-only@v3
+           with:
+             github_user_name: ${{ github.repository_owner }}
+             outputs: |
+               dist/github-contribution-grid-snake.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
+   After the first run, the snake SVG link above will start working.
 
-1. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-23T10:51:54Z
-2. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-22T10:56:48Z
-3. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-22T10:52:13Z
-4. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-22T10:52:04Z
-5. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-21T03:52:15Z
-6. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-20T08:21:51Z
-7. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-19T15:50:37Z
-8. Pushed to [neetcode-submissions](https://github.com/nirajbhayera4/neetcode-submissions) — 2026-06-19T05:52:30Z
-9. Pushed to [student-management-API](https://github.com/nirajbhayera4/student-management-API) — 2026-06-18T05:39:56Z
-10. Pushed to [student-management-API](https://github.com/nirajbhayera4/student-management-API) — 2026-06-18T05:35:26Z
+3. **Update placeholders**: swap out the email, LinkedIn, Twitter, and Instagram links for your real profiles.
 
-(Active cadence on algorithm practice repo + API work — frequently pushing small, focused updates.)
-
-
-
-## Latest Blog Posts 📝
-
-No personal blog posts were found on the GitHub profile. If you publish articles, tutorials or notes, I recommend linking them here.
-
-In the meantime, you can view technical activity and problem solving on:
-
-- LeetCode profile: https://leetcode.com/u/nirajbhayera/
-- LinkedIn: https://www.linkedin.com/in/niraj-bhayera-327b72338/
-
-(If you have a personal blog or portfolio site, add it and I'll include it here.)
-
-
-
-## Connect with Me 🔗
-
-- 🐙 GitHub: [nirajbhayera4](https://github.com/nirajbhayera4)
-- 💼 LinkedIn: [Niraj Bhayera](https://www.linkedin.com/in/niraj-bhayera-327b72338/)
-- 🧠 LeetCode: [nirajbhayera](https://leetcode.com/u/nirajbhayera/)
-- ✉️ Email: [nirajbhayera4@gmail.com](mailto:nirajbhayera4@gmail.com)
-- ⚡ Deployed projects (example): https://tour-ease-joh5.vercel.app/
-
-Badges:
-
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
-- ![Vercel](https://img.shields.io/badge/Deploys-Vercel-black?logo=vercel)
-
-Feel free to reach out — I'm open to collaboration, mentorship, and contributing to meaningful open-source projects. 🙌
+4. **Customize your tech stack**: edit the `skillicons.dev` URL to add/remove languages — full list at https://skillicons.dev.
