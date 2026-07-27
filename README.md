@@ -19,9 +19,8 @@ education:
   degree: B.Tech Computer Science
 
 role:
-  - Android Developer
-  - AI Engineer
-  - Competitive Programmer
+  - Full stack Developer(MERN)
+  - Problem solver
 
 currently_learning:
   - System Design
