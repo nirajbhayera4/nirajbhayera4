@@ -108,17 +108,15 @@ life:
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/nirajbhayera/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://codeforces.com/">
+<a href="https://codeforces.com/profile/Narutoskai">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
+
 
 </p>
 
@@ -146,13 +144,11 @@ while(alive)
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/niraj-bhayera-327b72338/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+
 
 </p>
 
