@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niraj Bhayera</h1>
-<h3 align="center">A passionate developer who loves building things and breaking bugs 🐞</h3>
+<h3 align="center">Web Developer | JavaScript · React · Node.js | Open to Opportunities 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Open+to+Work+%F0%9F%92%BC+%E2%80%94+Let%27s+Connect%21" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
 </p>
 
 <p align="center">
@@ -20,10 +24,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on open-source projects
-- 💬 Ask me about web development, programming, and tech
+- 💻 I'm a **Web Developer** specializing in **JavaScript, React & Node.js**
+- 🔭 I'm currently building full-stack web applications
+- 🌱 I'm currently sharpening my skills in modern JS frameworks & backend architecture
+- 💼 **Open to opportunities** — actively looking for a role, so let's talk!
+- 👯 I'm looking to collaborate on open-source and full-stack projects
+- 💬 Ask me about React, Node.js, JavaScript, or web dev in general
 - 📫 How to reach me: **your-email@example.com**
 - ⚡ Fun fact: I debug my code by staring at it intensely
 
@@ -32,7 +38,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,figma,mongodb" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman,tailwind" alt="skills" />
 </p>
 
 ---
@@ -54,13 +60,11 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🌊 Animated Wave Banner
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nirajbhayera4/nirajbhayera4/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="wave banner"/>
 </p>
-
-> ℹ️ To make the snake animation work, add the workflow described at the bottom of this file (Setup Instructions).
 
 ---
 
@@ -86,6 +90,9 @@
   </a>
   <a href="https://instagram.com/nirajbhayera4" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/>
   </a>
 </p>
 
