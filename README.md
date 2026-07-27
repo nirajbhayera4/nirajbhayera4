@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:6C63FF,100:FF00FF&text=NIRAJ%20BHAYERA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Android+Developer;AI+Engineer;Competitive+Programmer;Building+the+Future+with+Code;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Problem+Solver;Building+the+Future+with+Code;Always+Learning+Something+New+🚀"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/240885168-3c7f8f88-b8df-4e4d-a54b-89785fdb4b6d.gif" width="900"/>
 
