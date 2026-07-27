@@ -81,6 +81,11 @@ life:
 </p>
 
 ---
+### 🧠 LeetCode Stats
+ 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nirajbhayera?theme=dark&font=baloo2&ext=activity" alt="LeetCode Stats"/>
+</p>
 
 # 🏆 GitHub Trophies
 
