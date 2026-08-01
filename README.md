@@ -120,7 +120,9 @@ life:
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
 </a>
 
-
+<a href="https://www.hackerrank.com/profile/nirajbhayera4">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 
 </p>
 
