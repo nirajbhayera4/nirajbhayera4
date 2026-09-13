@@ -1,155 +1,173 @@
 <div align="center">
 
-<!-- Typing animation intro -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niraj+Bhayera+%F0%9F%91%8B;Backend+%26+Distributed+Systems+Developer;Node.js+%7C+MySQL+%7C+Redis;Building+scalable+systems+that+perform+under+load" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile views + socials -->
-<img src="https://komarev.com/ghpvc/?username=nirajbhayera&label=Profile%20Views&color=2EC866&style=flat" alt="profile views" />
-&nbsp;
-<a href="https://www.linkedin.com/in/nirajbhayera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nirajbhayera4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-```yaml
-name: Niraj Bhayera
-location: Haldwani, Uttarakhand, India
-education: B.Tech CSE @ Graphic Era Hill University (2023 – 2027)
-focus: Backend Engineering, Distributed Systems, Node.js
-currently_building: Scalable APIs, caching layers, and AI-assisted dev workflows
-leetcode: 400+ problems solved
-fun_fact: I design systems for scale, then measure exactly how fast they really are
+```
+$ ssh niraj@backend-engineer
+Connecting to niraj@Haldwani-Uttarakhand... 
+Authenticating... ✔
+Loading profile...
 ```
 
-- 🔭 Currently deep-diving into **Node.js, Express, TypeScript & distributed systems**
-- ⚡ Engineered a URL shortener handling **~19,800 req/sec** with a Redis caching layer
-- 🤖 Also explore **AI-assisted development** — multi-agent orchestration workflows with LLMs
-- 🌱 Learning: Docker, message queues, and production-grade auth patterns
-- 💬 Ask me about: caching strategies, API design, or distributed systems performance
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,html,css,mysql,redis,mongodb,git,github,vscode&theme=dark" />
-
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=2EC866&center=true&vCenter=true&width=750&lines=%24+systemctl+status+niraj.service;%E2%97%8F+active+(running)+since+2023;Backend+Engineer+%7C+Distributed+Systems+%7C+Node.js;Optimizing+latency%2C+one+cache+layer+at+a+time." alt="Typing SVG" />
+
 <br/>
+
+---
+
+### 📟 boot_log.sh
+
+```bash
+[  0.001] Initializing niraj_bhayera_v2027...
+[  0.042] Loading modules: nodejs, mysql, redis, distributed-systems
+[  0.089] Mounting core_cs: [DSA] [OOP] [DBMS] [CN] [LLD]
+[  0.114] Starting cache layer................ [ REDIS   OK ]
+[  0.201] Starting database layer............. [ MYSQL   OK ]
+[  0.233] Running load test on smart-url-shortener...
+[  1.902]   → throughput  : 19,800 req/sec @ 50 conns
+[  1.903]   → latency     : 9ms → 2ms  (-75% after cache)
+[  1.904]   → status      : STABLE UNDER LOAD ✔
+[  2.010] Background process detected: ai_agent_orchestration.py
+[  2.011]   → roles spawned: manager, developer, reviewer, tester
+[  2.140] All systems nominal. Ready for requests.
+```
+
+---
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td width="55%" valign="top">
 
-**Languages**
-- C++
-- JavaScript (ES6+)
+### 🧭 `whoami`
 
-**Backend**
-- Node.js
-- RESTful API Design & Integration
+I engineer backend systems that stay fast under real load — not just ones that work in a demo. My favorite part of any project is the moment right after it's "done," when I load-test it and find out what actually breaks.
+
+Right now I'm going deep on **Node.js**, treating it as my primary stack rather than spreading across languages — because I'd rather be genuinely strong in one ecosystem than shallow in five.
+
+```js
+const niraj = {
+  role: "Backend & Distributed Systems Engineer (in training)",
+  stack: ["Node.js", "MySQL", "Redis"],
+  obsessedWith: "the gap between 'it works' and 'it scales'",
+  currentFocus: "Express, TypeScript, message queues",
+  leetcode: 400,
+  status: "shipping, breaking, fixing, repeat"
+};
+```
 
 </td>
-<td valign="top" width="50%">
+<td width="45%" valign="top">
 
-**Databases & Caching**
-- MySQL
-- Redis (caching, write-through strategy)
+### 📡 `cat /proc/system_status`
 
-**Core CS**
-- DSA · OOP · DBMS · CN · LLD
+```yaml
+uptime:        B.Tech CSE, 2023 – 2027
+node:          Graphic Era Hill University
+location:      Haldwani, Uttarakhand, IN
+load_avg:      19,800 req/s (peak, tested)
+cache_hit:     ~75% latency reduction
+threads:
+  - backend systems
+  - distributed caching
+  - AI-assisted orchestration
+next_boot:     Docker, TypeScript, Auth (JWT)
+```
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-## 🚀 Featured Projects
+### 🗺️ system_architecture.diagram
 
-<div align="center">
+```
+                 ┌──────────────────────┐
+   client ──────▶│   Node.js API Layer   │
+                 └──────────┬───────────┘
+                            │
+             ┌──────────────┴───────────────┐
+             ▼                              ▼
+    ┌─────────────────┐          ┌──────────────────────┐
+    │   Redis Cache    │ ◀──hit──│  MySQL (source data)  │
+    │  (write-through)  │──miss──▶│  robust schema, HA    │
+    └─────────────────┘          └──────────────────────┘
+             │
+             ▼
+     response: ~2ms (was ~9ms)
+     throughput: ~19,800 req/sec @ 50 conns
+```
 
-<a href="https://github.com/nirajbhayera">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajbhayera&repo=smart-url-shortener&theme=dark&hide_border=true" />
-</a>
+*This is the actual shape of my Smart URL Shortener — the project that taught me most of what's below.*
 
-</div>
+---
 
-> **Smart URL Shortener** — `Node.js · MySQL · Redis · Distributed Systems`
-> Engineered a scalable, distributed URL shortener achieving **~19,800 req/sec** at 50 concurrent connections. Redis write-through caching cut lookup latency by **~75%** (9ms → 2ms) and boosted throughput **3.8×**. Load-tested to validate production-style SLA behavior.
-
-<details>
-<summary>🤖 More projects (AI-assisted builds)</summary>
-<br/>
-
-**AI Software Team — Multi-Agent Dev Workflow**
-`Python · LangGraph-style Orchestration · OpenAI / Ollama`
-Directed AI coding agents to architect a multi-agent framework with manager, developer, reviewer, and tester roles coordinated through a workflow orchestration graph.
-
-**Multiple Disease Prediction Web App**
-`Python · scikit-learn · Streamlit · MongoDB`
-Built and deployed ML classification models for Diabetes, Heart Disease, and Parkinson's prediction with 85–90% precision.
-
-**Epic Search Bot (WhatsApp)**
-`AI-Assisted Development`
-A WhatsApp-based intelligent search assistant integrating external APIs for real-time query handling — scoped for freelance delivery.
-
-</details>
-
-<br/>
-
-## 📊 GitHub Stats
+### 🧱 stack --installed
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera&layout=compact&theme=dark&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhayera&theme=dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,express,mysql,redis,mongodb,cpp,html,css,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
-## 🏆 Achievements & Certifications
-
-- 🧩 Solved **400+ LeetCode problems** — strong grasp of DSA & problem decomposition
-- 🏅 **Smart India Hackathon** (Internal Round) participant — Graphic Era Hill University, Aug 2025
-- 📜 Artificial Intelligence — LearnNex / Wipro DICS (2025)
-- 📜 Kotlin for Android Development — Udemy (2024)
-
-<br/>
-
-## 📈 Contribution Snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/nirajbhayera/nirajbhayera/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+| Layer | Tools |
+|---|---|
+| **Runtime & Language** | Node.js · JavaScript (ES6+) |
+| **API** | RESTful design & integration |
+| **Data** | MySQL · Redis (caching, write-through) |
+| **Core CS** | DSA · OOP · DBMS · CN · LLD |
+| **Tooling** | Git · GitHub · VS Code |
+| **Booting up next** | TypeScript · Express · Docker · JWT Auth |
+
 </div>
 
-> ℹ️ To enable this snake animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly `<your-username>/<your-username>` — see setup note below.
+---
 
-<br/>
+### 📈 metrics.dashboard
 
 <div align="center">
 
-### 📫 Let's Connect
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera&show_icons=true&theme=synthwave&hide_border=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera&layout=compact&theme=synthwave&hide_border=true" />
 
-<a href="mailto:nirajbhayera4@gmail.com">nirajbhayera4@gmail.com</a> · +91 8475948200 · Haldwani, Uttarakhand
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhayera&theme=synthwave&hide_border=true" />
+
+</div>
+
+---
+
+### 🧪 currently_running.log
+
+```diff
++ [ACTIVE]   Deep-diving Node.js: Express, TypeScript, auth patterns
++ [ACTIVE]   Adding pub/sub + rate-limiting to the URL shortener via Redis
+~ [PAUSED]   Python/ML experiments — parked to go deep on one stack first
++ [SHIPPED]  AI multi-agent dev workflow (manager/dev/reviewer/tester roles)
++ [SHIPPED]  Disease prediction ML app — 85–90% precision, Streamlit + MongoDB
+- [ARCHIVED] Epic Search Bot (WhatsApp) — freelance engagement, cancelled
+```
+
+---
+
+<div align="center">
+
+### ☎️ connect.sh
+
+```
+$ ping niraj
+nirajbhayera4@gmail.com  ·  +91 8475948200  ·  Haldwani, Uttarakhand
+```
+
+<a href="mailto:nirajbhayera4@gmail.com"><img src="https://img.shields.io/badge/-Email-2EC866?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-2EC866?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-2EC866?style=flat-square&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-⭐️ *"Engineering systems for scale — then proving it with numbers."*
+`// TODO: keep req/sec going up, keep latency going down`
 
 </div>
