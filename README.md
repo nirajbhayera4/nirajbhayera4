@@ -1,179 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,50:6C63FF,100:FF00FF&text=NIRAJ%20BHAYERA&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Android%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
+<!-- Typing animation intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Niraj+Bhayera+%F0%9F%91%8B;Backend+%26+Distributed+Systems+Developer;Node.js+%7C+MySQL+%7C+Redis;Building+scalable+systems+that+perform+under+load" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Fullstack+Developer;Problem+Solver;Building+the+Future+with+Code;Always+Learning+Something+New+🚀"/>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/240885168-3c7f8f88-b8df-4e4d-a54b-89785fdb4b6d.gif" width="900"/>
+<!-- Profile views + socials -->
+<img src="https://komarev.com/ghpvc/?username=nirajbhayera&label=Profile%20Views&color=2EC866&style=flat" alt="profile views" />
+&nbsp;
+<a href="https://www.linkedin.com/in/nirajbhayera"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nirajbhayera4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Niraj Bhayera
-
-education:
-  degree: B.Tech Computer Science
-
-role:
-  - Full stack Developer(MERN)
-  - Problem solver
-
-currently_learning:
-  - System Design
-  - LLM Engineering
-  - Cloud Computing
-
-currently_building:
-  - AI Software Engineering Copilot
-
-interests:
-  - Android
-  - Artificial Intelligence
-  - Open Source
-  - Backend Development
-
-life:
-  code: true
-  coffee: true
-  bugs: unavoidable
+location: Haldwani, Uttarakhand, India
+education: B.Tech CSE @ Graphic Era Hill University (2023 – 2027)
+focus: Backend Engineering, Distributed Systems, Node.js
+currently_building: Scalable APIs, caching layers, and AI-assisted dev workflows
+leetcode: 400+ problems solved
+fun_fact: I design systems for scale, then measure exactly how fast they really are
 ```
 
----
+- 🔭 Currently deep-diving into **Node.js, Express, TypeScript & distributed systems**
+- ⚡ Engineered a URL shortener handling **~19,800 req/sec** with a Redis caching layer
+- 🤖 Also explore **AI-assisted development** — multi-agent orchestration workflows with LLMs
+- 🌱 Learning: Docker, message queues, and production-grade auth patterns
+- 💬 Ask me about: caching strategies, API design, or distributed systems performance
 
-# ⚡ Tech Stack
+<br/>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,kotlin,java,dart,react,nodejs,express,mongodb,mysql,firebase,flutter,androidstudio,tensorflow,docker,git,github,linux,vscode&perline=10"/>
-
-</p>
-
----
-
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera4&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=nirajbhayera4&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera4&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirajbhayera4&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-### 🧠 LeetCode Stats
- 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nirajbhayera?theme=dark&font=baloo2&ext=activity" alt="LeetCode Stats"/>
-</p>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nirajbhayera4&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Software Engineering Copilot | AI-powered developer assistant |
-| 🛡 Praylay Shield | Disaster management system |
-| 🏋 ManyFitness | Flutter Fitness App |
-| 🧠 Disease Prediction | ML healthcare application |
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/nirajbhayera/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/Narutoskai">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/nirajbhayera4">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 💡 Philosophy
-
-```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Commit();
-    Repeat();
-}
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/nirajbhayera4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/niraj-bhayera-327b72338/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/nirajbhayera4/nirajbhayera4/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nirajbhayera4&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,html,css,mysql,redis,mongodb,git,github,vscode&theme=dark" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C63FF&height=160&section=footer"/>
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+- C++
+- JavaScript (ES6+)
+
+**Backend**
+- Node.js
+- RESTful API Design & Integration
+
+</td>
+<td valign="top" width="50%">
+
+**Databases & Caching**
+- MySQL
+- Redis (caching, write-through strategy)
+
+**Core CS**
+- DSA · OOP · DBMS · CN · LLD
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/nirajbhayera">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nirajbhayera&repo=smart-url-shortener&theme=dark&hide_border=true" />
+</a>
+
+</div>
+
+> **Smart URL Shortener** — `Node.js · MySQL · Redis · Distributed Systems`
+> Engineered a scalable, distributed URL shortener achieving **~19,800 req/sec** at 50 concurrent connections. Redis write-through caching cut lookup latency by **~75%** (9ms → 2ms) and boosted throughput **3.8×**. Load-tested to validate production-style SLA behavior.
+
+<details>
+<summary>🤖 More projects (AI-assisted builds)</summary>
+<br/>
+
+**AI Software Team — Multi-Agent Dev Workflow**
+`Python · LangGraph-style Orchestration · OpenAI / Ollama`
+Directed AI coding agents to architect a multi-agent framework with manager, developer, reviewer, and tester roles coordinated through a workflow orchestration graph.
+
+**Multiple Disease Prediction Web App**
+`Python · scikit-learn · Streamlit · MongoDB`
+Built and deployed ML classification models for Diabetes, Heart Disease, and Parkinson's prediction with 85–90% precision.
+
+**Epic Search Bot (WhatsApp)**
+`AI-Assisted Development`
+A WhatsApp-based intelligent search assistant integrating external APIs for real-time query handling — scoped for freelance delivery.
+
+</details>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nirajbhayera&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirajbhayera&layout=compact&theme=dark&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirajbhayera&theme=dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+- 🧩 Solved **400+ LeetCode problems** — strong grasp of DSA & problem decomposition
+- 🏅 **Smart India Hackathon** (Internal Round) participant — Graphic Era Hill University, Aug 2025
+- 📜 Artificial Intelligence — LearnNex / Wipro DICS (2025)
+- 📜 Kotlin for Android Development — Udemy (2024)
+
+<br/>
+
+## 📈 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/nirajbhayera/nirajbhayera/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+> ℹ️ To enable this snake animation, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly `<your-username>/<your-username>` — see setup note below.
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:nirajbhayera4@gmail.com">nirajbhayera4@gmail.com</a> · +91 8475948200 · Haldwani, Uttarakhand
+
+<br/><br/>
+
+⭐️ *"Engineering systems for scale — then proving it with numbers."*
 
 </div>
