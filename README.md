@@ -1,135 +1,81 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=2EC866&center=true&vCenter=true&width=750&lines=git+log+--author%3D%22Niraj+Bhayera%22+--all;commit+a1b2c3d+Backend+Engineer+%7C+Distributed+Systems;Author%3A+Niraj+%3Cnirajbhayera4%40gmail.com%3E" alt="Typing SVG" />
+<img src="assets/readme-orbit.gif" alt="A glowing 3D cube rotating in a neon orbit" width="100%" />
+
+# Niraj Bhayera
+
+### Full-Stack Developer · Backend & AI Systems
+
+Building fast web applications, developer tools, and practical AI experiences.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Designing+systems+that+scale;Turning+codebases+into+searchable+knowledge;Shipping+full-stack+products+end+to+end" alt="Animated developer tagline" />
 
 </div>
 
-<br/>
+---
 
-## 📜 `git log --graph --oneline --all`
+## Selected projects
 
-```
-*   f3a9d21 (HEAD -> main) Merge: focus stack on Node.js
-|\
-| * 9c81e4a (feature/nodejs-focus) decision: go deep, not wide
-| * 1e77b02 diff: -python-scripts +nodejs-backend
-|/
-*   7bd2f0e Merge pull request #3 from ai-agents/multi-agent-workflow
-|\
-| * 4a9d113 feat: manager/developer/reviewer/tester agent roles
-| * 2f88c31 feat: multi-provider LLM support (OpenAI, Ollama)
-|/
-*   e5c910a Merge pull request #2 from ml/disease-prediction
-|\
-| * b31a774 feat: scikit-learn models — 85-90% precision
-| * 90cd112 feat: MongoDB persistence + Streamlit frontend
-|/
-*   d001abc Merge pull request #1 from backend/smart-url-shortener
-|\
-| * 6f2e881 perf: Redis write-through cache → latency -75%
-| * 3ba7c90 perf: 19,800 req/sec @ 50 concurrent connections
-| * 1c44f20 feat: distributed MySQL schema, horizontally scalable
-|/
-*   88a01de init: enrolled B.Tech CSE, Graphic Era Hill University
-```
+### ⚡ Smart URL Shortener <sub>· 2026</sub>
 
-<br/>
+**React · Node.js · Express · MySQL · Redis · Distributed Systems**
 
-## 🔀 open_pull_request.diff — `# currently in review`
+A full-stack link shortener built for high throughput, fast lookups, and useful link analytics.
 
-```diff
-  Backend Stack Upgrade
-- learning: scattered across C++, Python, JS
-+ learning: Node.js, Express, TypeScript (deep, not wide)
+- Generates unique six-character links; load testing measured **~19,800 requests/sec at 50 concurrent connections**.
+- Uses Redis read-through caching with a one-hour TTL and MySQL fallback, reducing lookup latency from **~9 ms to ~2 ms** and improving measured throughput by **~3.8×**.
+- Validates HTTP/HTTPS URLs server-side, limits link creation to 10 requests per IP per 15 minutes, and tracks total, recent, and seven-day clicks.
+- Includes automated URL validation tests with Node’s built-in test runner and GitHub Actions CI for tests and frontend builds.
 
-  Skills / Databases
-+ MySQL
-+ Redis (caching, write-through)
+`GitHub ↗` *(repository link not provided)*
 
-  Next Sprint
-+ Docker
-+ JWT-based auth
-+ Message queues (BullMQ / pub-sub)
-+ Testing (Jest)
-```
+---
 
-> **Reviewer note:** approved — depth over breadth is the right call at this stage. ✅
+### 🧠 Nexora — AI Software Engineering Copilot <sub>· Ongoing · 2026</sub>
 
-<br/>
+**Python · FastAPI · GitHub REST API · ChromaDB · RAG · Ollama · Qwen 2.5 Coder**
 
-## 🧵 commits_by_type.stats
+A full-stack copilot that indexes public GitHub repositories and helps developers understand and review their code.
 
-```
-perf      ██████████████████░░░░░░░░  62%   caching, latency, throughput
-feat      ██████████████░░░░░░░░░░░░  48%   new project features
-fix       ██████░░░░░░░░░░░░░░░░░░░░  22%   the usual 3am bugs
-docs      ███░░░░░░░░░░░░░░░░░░░░░░░  11%   README you're reading now
-```
+- Connects a React/Vite frontend to a FastAPI backend for public repository workflows.
+- Indexes repository code in ChromaDB and answers retrieval-based questions using Ollama and Qwen 2.5 Coder.
+- Combines Tree-sitter, Ruff, Pylint, Bandit, and Semgrep checks with optional AI explanations and fix suggestions.
+- Runs locally with Docker Compose, source mounts, live reload, and host Ollama connectivity.
 
-<br/>
+`GitHub ↗` *(repository link not provided)*
 
-## 🗂️ repos/ — pinned
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🎨 Imagify — Text-to-Image SaaS <sub>· 2026</sub>
 
-**📦 smart-url-shortener**
-`Node.js` `MySQL` `Redis`
+**React · Vite · Tailwind CSS · Node.js · Express · MongoDB · JWT · Clipdrop API**
 
-Distributed URL shortener engineered for scale.
-```
-throughput : 19,800 req/sec @ 50 conns
-latency    : 9ms → 2ms  (Redis write-through)
-gain       : 3.8x  faster under load
-```
+A full-stack web application that turns text prompts into AI-generated images.
 
-</td>
-<td width="50%" valign="top">
+- Integrates the Clipdrop API with a React frontend and Express/MongoDB backend.
+- Supports user registration and login with JWT authentication and hashed passwords.
+- Provides a responsive interface built with React, Vite, Tailwind CSS, and React Router.
 
-**🤖 ai-multi-agent-devteam**
-`Python` `LLM APIs` `Orchestration`
+`GitHub ↗` *(repository link not provided)*
 
-Manager → Developer → Reviewer → Tester,
-coordinated as a workflow graph, not a script.
-```
-roles      : 4 (manager, dev, reviewer, tester)
-providers  : OpenAI, Ollama (multi-provider)
-```
+---
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧬 blame.log — `who wrote this profile`
-
-```
-$ git blame career.md
-
-88a01de  (Niraj, 2023) started CS degree, wrote first "Hello World"
-d001abc  (Niraj, 2026) shipped a system that survives 19.8k req/sec
-7bd2f0e  (Niraj, 2026) taught AI agents to review each other's code
-9c81e4a  (Niraj, 2026) chose depth over breadth — going all-in on Node.js
-f3a9d21  (Niraj, now)  writing this README instead of sleeping
-```
-
-<br/>
-
-## 🌐 remote -v
-
-```
-origin    mailto:nirajbhayera4@gmail.com      (fetch)
-origin    mailto:nirajbhayera4@gmail.com      (push)
-location  Haldwani, Uttarakhand, IN           (read-only)
-phone     +91 8475948200                      (rate-limited, be reasonable)
-```
+## Toolkit
 
 <div align="center">
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-`Thanks for reading this far. Now go check the commit history — it's better than the README.`
+</div>
+
+<div align="center">
+
+*Thanks for stopping by — explore the projects above to see what I’m building.*
 
 </div>
